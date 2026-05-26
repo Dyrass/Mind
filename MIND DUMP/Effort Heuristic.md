@@ -1,0 +1,1 @@
+something takes longer we perceive it as better

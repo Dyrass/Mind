@@ -1,0 +1,8 @@
+- <span style="font-size:29.285715103149414pt;">10th Mark sheet</span>
+- <span style="font-size:29.285715103149414pt;">12th mark sheet</span>
+- <span style="font-size:29.285715103149414pt;">APS Certificate</span>
+- <span style="font-size:29.285715103149414pt;">CV + Motivation letter</span>
+- <span style="font-size:29.285715103149414pt;">B1 (min) - B2 (recommended)  Language certificate</span>
+- <span style="font-size:29.285715103149414pt;">Work contract salary proof or Blocked account (12-15lakh)</span>
+- <span style="font-size:29.285715103149414pt;">Health insurance</span>
+- <span style="font-size:29.285715103149414pt;">CV + Motivation letter</span>

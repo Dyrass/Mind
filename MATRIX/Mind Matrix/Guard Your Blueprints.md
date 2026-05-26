@@ -1,0 +1,1 @@
+You do not owe anyone an explanation of your vision, especially people who have committed to living a small life. Stop sharing your big ideas, your risk calculations, or your dreams with people who operate in survival mode. Feed your ambitions to people who match your energy, and leave the crabs completely in the dark until the results speak for themselves.

@@ -1,0 +1,1 @@
+Skin — every ethnicity — sits in the orange range. Teal is its direct complement on the color wheel. So when you push teal into shadows and orange into mids/highlights, skin automatically pops without extra work, backgrounds recede, and the image reads as "cinematic" instantly.

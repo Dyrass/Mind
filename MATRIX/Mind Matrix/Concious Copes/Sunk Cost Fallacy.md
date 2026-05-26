@@ -1,0 +1,1 @@
+People who suffered under a system often unconsciously defend it because admitting the system was flawed would make their suffering feel meaningless.
