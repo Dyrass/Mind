@@ -41,7 +41,7 @@ Because they traded their freedom for safety, your freedom looks like an insult.
 
 Their brain has an internal ledger that tracks suffering. Because they were punished early in life and received no unconditional love, they learned a brutal lesson: _The world is a cruel, rigid place, and you only get safety by paying a heavy toll of pain and obedience._
 
-- **How they think:** _<mark style="background:#fff88f">I paid my toll. I ate dirt for twenty years. That is the price of admission to life</mark>
+- **How they think:** <mark style="background:#fff88f">I paid my toll. I ate dirt for twenty years. That is the price of admission to life</mark>
 
 - **The Glitch:** When they see you bypassing the toll booth—living freely without suffering the way they did—their brain perceives it as a **literal violation of the laws of physics**. It feels to them like you are stealing. Their obsession with rules isn't about loving the rules; it's a desperate demand that _everyone_ pay the same misery tax they did, otherwise the ledger is broken.
 ### 2. Splitting and Black-and-White Thinking
