@@ -1,4 +1,4 @@
-The hopeless people are in a uniquely painful psychological state. hopeless people have completely stopped running from Reality. They have collapsed right in the middle of the track.
+fThe hopeless people are in a uniquely painful psychological state. hopeless people have completely stopped running from Reality. They have collapsed right in the middle of the track.
 
 >Hopelessness is actually just the ultimate, final defense mechanism of a completely exhausted ego.
 >Hopelessness is a surrender to defeat, while acceptance is a surrender to reality.
