@@ -54,5 +54,4 @@ Der lüke in der Wortz
 5. Mix All of the above.
 #### Pair Different Fonts...
 #### Reduce Tracking
----
-Lemon Milk - > Bold and Masculine
+#### Lemon Milk - > Bold and Masculine
