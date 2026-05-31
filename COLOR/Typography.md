@@ -44,4 +44,15 @@ Der lüke in der Wortz
 2. Change Hue (color)
 	- build color contrast
 3. Mix Cases
-	1. using both uppercap
+	1. using both uppercase and lowercase
+	2. builds contrast
+	3. upper case is usually highlighted
+	4. lower is less visible
+4. Change Sizes
+	1. bigger size is easily highlighted 
+	2. smaller is less visible 
+5. Mix All of the above.
+#### Pair Different Fonts...
+#### Reduce Tracking
+---
+Lemon Milk - > Bold and Masculine
