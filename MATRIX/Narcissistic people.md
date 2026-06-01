@@ -2,7 +2,6 @@ Narcissistic people constantly move the goal post to further and further away .
 it teaches you to be [[Hopeless]] and give up because you will always think that no matter how hard you try it will always lead to nothing. 
 
 1st class -> 6th class -> 8th class -> 10th class -> 12th class -> college -> job -> death.
-
 # -------->>
 - They also raised you to keep people at a distance , your closest people became your worst nightmare.
 - They didn't allow you to be children in your childhood.
