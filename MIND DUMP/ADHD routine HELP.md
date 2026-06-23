@@ -21,3 +21,5 @@ First you will be TVA of your life ->
 This removes all the unnecessarily open tasks from your life . That are taking space in your working memory as you have a shorter working memory . Now on this day you will abstain from any kind of dopamine other than working towards yours goal and fun afterwards .
 
 If its already very good timeline then you can stare at a wall then start your work .
+
+Courses are for ADHD people already structured , you need to already know what you are going to do and how you are going to do that 
