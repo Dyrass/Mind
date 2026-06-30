@@ -224,6 +224,8 @@
 
 > Nobody is gonna give you what you want , they are only going to give you what they want to give you and for their own reason.
 
+> Communism = common suffering 
+
 
 
 
