@@ -3,18 +3,18 @@
 | -------- | ------------------ | ------------ |
 | Sondern  | rather / but       | ❌            |
 | Zurzeit  | currently          | ❌            |
-| während  | while / during     | ✅            |
+| dann     | then               | ❌            |
 | Trotzdem | nevertheless       | ❌            |
-| weil     | because            | ✅            |
+| Außerdem | besides            | ❌            |
+| damit    | with it /that      | ❌            |
+| während  | while / during     | ✅            |
 | Ob       | whether            | ✅            |
 | Obwohl   | although           | ✅            |
-| dann     | then               | ❌            |
+| weil     | because            | ✅            |
 | da       | since /because /as | ✅            |
-| Außerdem | besides            | ❌            |
 | wenn     | if / when          | ✅            |
 | seit     | since              | ✅            |
 | als      |                    | ✅            |
 | seitdem  | since then         | ✅            |
 | nachdem  | after that         | ✅            |
-| damit    | with it /that      | ❌            |
 |          |                    |              |
