@@ -226,6 +226,10 @@
 
 > Communism = common suffering 
 
+> Grass is greener where you water it not the other side , you see green grass on the other side because people have watered it . water your own grass 
+
+
+
 
 
 
