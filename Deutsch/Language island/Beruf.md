@@ -1,1 +1,1 @@
-sich ein neues Leben aufbauen : build a new life myself 
+sich ein neues Leben aufbauen : build a new life myself .

@@ -19,7 +19,7 @@
 | at that time ; then              | damals                                          |                                                |
 | to think about smth              | Denken  (an)                                    | ich denke an meiner Familie                    |
 | I don't want                     | ich will nicht .....                            |                                                |
-|                                  |                                                 |                                                |
+| I am in mood of...               | ich habe lust auf ......                        |                                                |
 |                                  |                                                 |                                                |
 |                                  |                                                 |                                                |
 |                                  |                                                 |                                                |

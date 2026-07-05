@@ -52,31 +52,11 @@
 			"height":60
 		},
 		{
-			"id":"018b6049705a6c87",
-			"type":"text",
-			"text":"Deutschland Berlin ",
-			"styleAttributes":{},
-			"x":320,
-			"y":720,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"c330763da046700a",
 			"type":"text",
 			"text":"Life 4",
 			"styleAttributes":{},
 			"x":-160,
-			"y":860,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9008cd39b4a3ce46",
-			"type":"text",
-			"text":"Living in an Rv Travelling the world ",
-			"styleAttributes":{},
-			"x":320,
 			"y":860,
 			"width":260,
 			"height":60
@@ -92,31 +72,11 @@
 			"height":60
 		},
 		{
-			"id":"3ef0f222d83896b0",
-			"type":"text",
-			"text":"Pornshoot B ",
-			"styleAttributes":{},
-			"x":320,
-			"y":1000,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"75af5222fda4f8fe",
 			"type":"text",
 			"text":"Life 6 ",
 			"styleAttributes":{},
 			"x":-160,
-			"y":1140,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2311c4bd352727d5",
-			"type":"text",
-			"text":"Streaming Games / Cams ",
-			"styleAttributes":{},
-			"x":320,
 			"y":1140,
 			"width":260,
 			"height":60
@@ -128,6 +88,46 @@
 			"styleAttributes":{},
 			"x":-160,
 			"y":1280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"018b6049705a6c87",
+			"type":"text",
+			"text":"Deutschland Berlin ",
+			"styleAttributes":{},
+			"x":320,
+			"y":720,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9008cd39b4a3ce46",
+			"type":"text",
+			"text":"Living in an Rv Travelling the world ",
+			"styleAttributes":{},
+			"x":320,
+			"y":860,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3ef0f222d83896b0",
+			"type":"text",
+			"text":"Pornshoot B ",
+			"styleAttributes":{},
+			"x":320,
+			"y":1000,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2311c4bd352727d5",
+			"type":"text",
+			"text":"Streaming Games / Cams ",
+			"styleAttributes":{},
+			"x":320,
+			"y":1140,
 			"width":260,
 			"height":60
 		},
