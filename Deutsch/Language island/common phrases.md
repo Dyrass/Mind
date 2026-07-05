@@ -16,8 +16,8 @@
 | prefer                           | lieber                         |                                                |
 | on the way                       | unterwegs                      | have not reached destination but heading to it |
 | nevertheless                     | Dennoch                        | Haupsatze                                      |
-|                                  |                                |                                                |
-|                                  |                                |                                                |
+| at that time ; then              | damals                         |                                                |
+| to think about smth              | Denken  (an)                   | ich denke an meiner Familie                    |
 |                                  |                                |                                                |
 |                                  |                                |                                                |
 |                                  |                                |                                                |
