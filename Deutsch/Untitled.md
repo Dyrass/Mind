@@ -1,5 +1,4 @@
 # German Vocab — B1 → B2 (High Frequency First)
-
 Legend:
 
 - ⭐⭐⭐ = extremely common

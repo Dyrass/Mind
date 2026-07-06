@@ -5,8 +5,6 @@ Woher kommen sie -
 Wie alt sind sie ?
 - Ich bin 22 Jahre alt.
 
-
-
 Guten Tag,
 
 mein Name ist Arvin. Ich komme aus Indien und lebe dort. Ich bin 22 Jahre alt.
