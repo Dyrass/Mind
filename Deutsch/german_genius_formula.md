@@ -91,8 +91,6 @@ Beethoven was famously chaotic, impulsive, restless — and he channeled it into
 
 **ADHD hack:** You cannot fake interest. Don't try. Find the real hook and let the language attach to it.
 
----
-
 ## 🧠 ADHD-Specific Rules That Cannot Be Broken
 
 ### The Dopamine Ladder
@@ -107,8 +105,6 @@ Level 4 → Mental simulation / inner monologue
 ```
 Never start at Level 4. Your brain will panic and quit.
 
----
-
 ### The Spiral Rule
 Your day starts in an upward or downward spiral before you even open a textbook.  
 **Protect the morning.**
@@ -116,8 +112,6 @@ Your day starts in an upward or downward spiral before you even open a textbook.
 - No Reels/Shorts on waking → this fries receptors before German even gets a chance
 - Drink water. Stretch. 5 minutes of quiet. *Then* open German.
 - German works best when your dopamine meter is clean, not pre-burned.
-
----
 
 ### Environment = Output
 Your brain becomes its environment.
@@ -129,31 +123,20 @@ Your brain becomes its environment.
 
 One app. One tab. One task.  
 The more you context-switch while studying, the less German reaches long-term memory.
-
----
-
 ### Short Deadlines Only
 - ❌ "I'll be B1 by end of year" → ADHD brain: *we have time, do it later*
 - ✅ "I will read this paragraph in the next 7 minutes" → ADHD brain: *game on*
 
 Give yourself micro-deadlines with small visible rewards after.
-
----
-
 ### Stimming is Allowed
 Fidget while listening to German audio. Pace while doing inner monologue.  
 Walk while replaying sentences.  
 Movement sends the extra commands somewhere else → your mind clears → German lands better.
-
----
-
 ### Fear of Loss > Hope of Gain
 Instead of: *"If I study I'll be fluent someday"*  
 Think: *"If I skip today I lose the streak / the chunk fades"*
 
 Frame each session as protecting something you already have.
-
----
 
 ## 📅 The Daily Formula (Minimum Effective Dose)
 
@@ -167,9 +150,6 @@ Frame each session as protecting something you already have.
 
 **Total active effort: ~25 minutes.**  
 The rest is simulation — and that's where the real learning lives.
-
----
-
 ## 🌊 The Feel Shift to Chase
 
 > From: *"What does this word mean?"*  
@@ -180,7 +160,4 @@ That's when German stops being a subject and starts being a second internal voic
 
 That's the genius formula.  
 Not grinding. Not willpower. **Simulation + Chunks + Obsession on your terms.**
-
----
-
 *Viel Erfolg. Du schaffst das.*
