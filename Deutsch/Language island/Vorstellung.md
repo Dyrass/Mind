@@ -17,4 +17,4 @@ Ich lerne jeden Tag Deutsch, weil ich meine Sprachkenntnisse verbessern möchte.
 
 Ich freue mich, heute hier zu sein und Sie kennenzulernen.
 
-Vielen Dank für Ihre Aufmerksamkeit.
+Vielen Dank für Ihre Zeit. 

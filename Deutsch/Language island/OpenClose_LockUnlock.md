@@ -1,3 +1,9 @@
+# OPEN / Close
+
+| An \| machen |     | Open  |
+| -----------: | --- | ----- |
+| Zu \| machen |     | Close |
+
 ### an-machen => open | zu-machen => close 
 ##### to make open / close 
 ich mache Die tür an .
