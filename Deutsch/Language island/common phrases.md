@@ -15,6 +15,7 @@
 | still only                       | nur noch                       |                                                |
 | prefer                           | lieber                         |                                                |
 | on the way                       | unterwegs                      | have not reached destination but heading to it |
+| however..                        | allerdings....                 |                                                |
 | nevertheless                     | Dennoch                        | Haupsatze                                      |
 | at that time ; then              | damals                         |                                                |
 | to think about smth              | Denken  (an)                   | ich denke an meiner Familie                    |
@@ -24,7 +25,6 @@
 | i didn't know                    | ich habe nicht gewusst         | in past                                        |
 | In comparison to                 | Im Vergleich zu ....           |                                                |
 | That depends on ..               | Das hängt davon ab             |                                                |
-|                                  |                                |                                                |
 |                                  |                                |                                                |
 |                                  |                                |                                                |
 |                                  |                                |                                                |

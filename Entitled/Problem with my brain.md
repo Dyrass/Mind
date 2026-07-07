@@ -8,7 +8,6 @@
   
 - High cortisol keeps the nervous system on high alert, making it incredibly hard to fall into deep, restorative sleep. Yet, because of the low dopamine and high prolactin, the person wakes up feeling completely unrefreshed and physically heavy.
 
----
 **Executive Paralysis:** Knowing exactly what needs to be done, staring directly at the task, experiencing intense stress and guilt about _not_ doing it (cortisol), but being physically and mentally unable to initiate the movement (ADHD/Dopamine deficit).
 
 Anhedonia strips away positive emotions, leaving a sense of emptiness or "grayness." However, because chronic cortisol keeps the nervous system raw, the person might still feel easily overwhelmed, anxious, or irritable.
