@@ -26,8 +26,8 @@
 | Im Vergleich zu ....           | In comparison to                 |                                                |
 | Das hängt davon ab             | That depends on ..               |                                                |
 | früher benutzt es sein         | It used to be ..                 |                                                |
-|                                |                                  |                                                |
-|                                |                                  |                                                |
+| hauptsächlich                  | mainly / primarily               |                                                |
+| zusätzlich                     | additionally                     |                                                |
 |                                |                                  |                                                |
 |                                |                                  |                                                |
 |                                |                                  |                                                |

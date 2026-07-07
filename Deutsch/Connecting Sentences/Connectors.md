@@ -8,6 +8,7 @@
 | Trotzdem                       | nevertheless                            | ❌           |
 | Außerdem                       | besides                                 | ❌           |
 | damit                          | with it /that                           | ❌           |
+| dadurch                        | as a result                             | ❌           |
 |                                |                                         |             |
 | während                        | while / during                          | ✅           |
 | Ob                             | whether                                 | ✅           |
