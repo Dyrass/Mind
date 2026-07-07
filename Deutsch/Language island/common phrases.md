@@ -1,34 +1,34 @@
 
-| Englisch                         | Deutsch                        | Patterns                                       |
-| -------------------------------- | ------------------------------ | ---------------------------------------------- |
-| or something like that           | oder so was                    |                                                |
-| What about / what is it with...? | Was ist (mit)...?              |                                                |
-| them (Dativ)                     | ihnen                          |                                                |
-| about it / that                  | darüber                        |                                                |
-| feel like myself                 | Ich fühle mich wie ich selbst. |                                                |
-| like that                        | so                             |                                                |
-| in my opinion                    | Meiner Meinung nach            |                                                |
-| currently                        | zurzeit                        |                                                |
-| possibly                         | wahrscheinlich                 |                                                |
-| so                               | also                           | Grund → also → Ergebnis                        |
-| more than                        | mehr als                       |                                                |
-| still only                       | nur noch                       |                                                |
-| prefer                           | lieber                         |                                                |
-| on the way                       | unterwegs                      | have not reached destination but heading to it |
-| however..                        | allerdings....                 |                                                |
-| nevertheless                     | Dennoch                        | Haupsatze                                      |
-| at that time ; then              | damals                         |                                                |
-| to think about smth              | Denken  (an)                   | ich denke an meiner Familie                    |
-| I don't want                     | ich will nicht .....           |                                                |
-| I am in mood of...               | ich habe lust auf ......       |                                                |
-| from there                       | daher                          |                                                |
-| i didn't know                    | ich habe nicht gewusst         | in past                                        |
-| In comparison to                 | Im Vergleich zu ....           |                                                |
-| That depends on ..               | Das hängt davon ab             |                                                |
-|                                  |                                |                                                |
-|                                  |                                |                                                |
-|                                  |                                |                                                |
-|                                  |                                |                                                |
-|                                  |                                |                                                |
-|                                  |                                |                                                |
+| Deutsch                        | Englisch                         | Patterns                                       |
+| ------------------------------ | -------------------------------- | ---------------------------------------------- |
+| oder so was                    | or something like that           |                                                |
+| Was ist (mit)...?              | What about / what is it with...? |                                                |
+| ihnen                          | them (Dativ)                     |                                                |
+| darüber                        | about it / that                  |                                                |
+| Ich fühle mich wie ich selbst. | feel like myself                 |                                                |
+| so                             | like that                        |                                                |
+| Meiner Meinung nach            | in my opinion                    |                                                |
+| zurzeit                        | currently                        |                                                |
+| wahrscheinlich                 | possibly                         |                                                |
+| also                           | so                               | Grund → also → Ergebnis                        |
+| mehr als                       | more than                        |                                                |
+| nur noch                       | still only                       |                                                |
+| lieber                         | prefer                           |                                                |
+| unterwegs                      | on the way                       | have not reached destination but heading to it |
+| allerdings....                 | however..                        |                                                |
+| Dennoch                        | nevertheless                     | Haupsatze                                      |
+| damals                         | at that time ; then              |                                                |
+| Denken  (an)                   | to think about smth              | ich denke an meiner Familie                    |
+| ich will nicht .....           | I don't want                     |                                                |
+| ich habe lust auf ......       | I am in mood of...               |                                                |
+| daher                          | from there                       |                                                |
+| ich habe nicht gewusst         | i didn't know                    | in past                                        |
+| Im Vergleich zu ....           | In comparison to                 |                                                |
+| Das hängt davon ab             | That depends on ..               |                                                |
+| früher benutzt es sein         | It used to be ..                 |                                                |
+|                                |                                  |                                                |
+|                                |                                  |                                                |
+|                                |                                  |                                                |
+|                                |                                  |                                                |
+|                                |                                  |                                                |
 
