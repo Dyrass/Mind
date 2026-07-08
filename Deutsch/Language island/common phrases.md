@@ -28,7 +28,7 @@
 | früher benutzt es sein         | It used to be ..                 |                                                |
 | hauptsächlich                  | mainly / primarily               |                                                |
 | zusätzlich                     | additionally                     |                                                |
-|                                |                                  |                                                |
+| Ich hätte gern .....           | I would like .....               |                                                |
 |                                |                                  |                                                |
 |                                |                                  |                                                |
 
