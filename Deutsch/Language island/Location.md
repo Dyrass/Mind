@@ -2,8 +2,9 @@
 | Verb          | Action                            | Preposition      |
 | ------------- | --------------------------------- | ---------------- |
 | stehen        | to stand /be standing             | auf + D , an + D |
-| liegen        | to lye / be lying horizontally    |                  |
 | sitzen        | to sit / be sitting               |                  |
+| liegen        | to lye / be lying horizontally    |                  |
+| legen         | to lay smt                        |                  |
 | hängen        | to hang / be hanging              |                  |
 | stellen       | to put / be there vertically      |                  |
 | packen        | to pack / be packing              |                  |
