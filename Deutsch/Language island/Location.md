@@ -5,10 +5,10 @@
 | sitzen        | to sit / be sitting               |                  |
 | liegen        | to lye / be lying horizontally    |                  |
 | legen         | to lay smt                        |                  |
-| hängen        | to hang / be hanging              |                  |
 | stellen       | to put / be there vertically      |                  |
-| packen        | to pack / be packing              |                  |
 | stecken       | to put / be sticking sth into sth |                  |
+| packen        | to pack / be packing              |                  |
+| hängen        | to hang / be hanging              |                  |
 | ein \| räumen | put away                          |                  |
 ### WO? (Where?) → Dativ
 Location = no movement
