@@ -4,6 +4,9 @@ Woher kommen sie -
 - Ich komme aus Indien 
 Wie alt sind sie ?
 - Ich bin 22 Jahre alt.
+was sind sie von Beruf ?
+- ich bin ..... 
+
 
 Guten Tag,
 
