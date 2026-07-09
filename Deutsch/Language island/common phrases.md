@@ -31,4 +31,13 @@
 | Ich hätte gern .....           | I would like to have .....       | etwas bekommen, kaufen oder bestellen   |
 | Ich möchte gern...             | I would like ......              | Für Wünsche, Pläne und höfliche Bitten. |
 | schon mal                      | ever / once                      | Hast du schon mal sex gemacht?          |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
+|                                |                                  |                                         |
 
