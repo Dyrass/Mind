@@ -1,7 +1,11 @@
-1. ich bin unterwegs.
-2. wenn du helfen möchtest , kannst du fragen ?
-3. nicht nur durch ...... sondern durch .....
-4. haben sie noch einen Tisch frei oder ..
-5. können wir drinnen sitzen .
-6. sie können gerne platz nehmen 
-7. schauen mal 
+
+|Einfach|B2|
+|---|---|
+|machen|erledigen, durchführen, schaffen|
+|gehen|spazieren, sich begeben, laufen|
+|sagen|erwähnen, erklären, berichten|
+|denken|vermuten, annehmen, überlegen|
+|finden|entdecken, treffen|
+|bekommen|erhalten|
+|machen (Video)|aufnehmen, bearbeiten, veröffentlichen|
+|sein|sich befinden, wirken|
