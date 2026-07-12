@@ -228,6 +228,8 @@
 
 > Grass is greener where you water it not the other side , you see green grass on the other side because people have watered it . water your own grass 
 
+> The odds are low because most people try fully so they end up joining the 99% and what they thought ends up becoming reality . 
+
 
 
 
