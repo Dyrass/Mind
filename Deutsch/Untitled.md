@@ -2,16 +2,11 @@
 Legend:
 
 - ⭐⭐⭐ = extremely common
-    
 - ⭐⭐ = common
-    
 - ⭐ = useful B2
-    
 
 ## Tier 1 — Master First (Top Utility)
-
 ### Verbs
-
 ⭐⭐⭐ sein — to be  
 ⭐⭐⭐ haben — to have  
 ⭐⭐⭐ werden — become / will  
@@ -32,9 +27,7 @@ Legend:
 ⭐⭐⭐ entscheiden — decide  
 ⭐⭐⭐ vereinbaren — arrange / agree  
 ⭐⭐⭐ abschaffen — abolish
-
 ### Connectors
-
 ⭐⭐⭐ obwohl — although  
 ⭐⭐⭐ deshalb — therefore  
 ⭐⭐⭐ deswegen — because of that  
@@ -44,11 +37,7 @@ Legend:
 ⭐⭐⭐ dafür — for it  
 ⭐⭐⭐ davon — of it  
 ⭐⭐⭐ dahinter — behind it
-
----
-
 ## Tier 2 — Daily B1/B2 Nouns
-
 ⭐⭐⭐ die Erfahrung — experience  
 ⭐⭐⭐ die Meinung — opinion  
 ⭐⭐⭐ die Entscheidung — decision  
@@ -62,11 +51,7 @@ Legend:
 ⭐⭐⭐ die Bewerbung — application  
 ⭐⭐⭐ die Herausforderung — challenge  
 ⭐⭐⭐ die Veränderung — change
-
----
-
 ## Tier 3 — High Value Adjectives
-
 ⭐⭐⭐ wichtig — important  
 ⭐⭐⭐ notwendig — necessary  
 ⭐⭐⭐ unterschiedlich — different  
@@ -78,11 +63,7 @@ Legend:
 ⭐⭐⭐ erfolgreich — successful  
 ⭐⭐⭐ selbstverständlich — obvious  
 ⭐⭐⭐ zuverlässig — reliable
-
----
-
 ## Tier 4 — B2 Verbs That Make You Sound Smarter
-
 ⭐⭐ argumentieren — argue  
 ⭐⭐ beurteilen — evaluate  
 ⭐⭐ beschreiben — describe  
@@ -95,33 +76,22 @@ Legend:
 ⭐⭐ vermeiden — avoid  
 ⭐⭐ darstellen — present  
 ⭐⭐ zusammenfassen — summarize
-
----
-
 ## Tier 5 — Goethe Speaking Topics Vocabulary
-
 ### Arbeit
-
 Gehalt  
 Arbeitslosigkeit  
 Arbeitsbedingungen  
 Karriere
-
 ### Technologie
-
 Datenschutz  
 soziale Medien  
 Digitalisierung  
 Fortschritt
-
 ### Umwelt
-
 Klimawandel  
 Nachhaltigkeit  
 Energieverbrauch
-
 ### Gesundheit
-
 Stress  
 Gewohnheit  
 Ernährung  
