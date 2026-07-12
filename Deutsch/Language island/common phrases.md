@@ -18,13 +18,13 @@
 | allerdings....                 | however..                        |                                                        |
 | Dennoch                        | nevertheless                     | Haupsatze                                              |
 | damals                         | at that time ; then              |                                                        |
-| Denken  (an)                   | to think about smth              | ich denke an meiner Familie                            |
+| Denken  (an)                   | to think about smth              | Ich denke an meiner Familie.                           |
 | ich will nicht .....           | I don't want                     |                                                        |
 | ich habe lust auf ......       | I am in mood of...               |                                                        |
 | daher                          | from there                       |                                                        |
 | ich habe nicht gewusst         | i didn't know                    | in past                                                |
 | Im Vergleich zu ....           | In comparison to                 |                                                        |
-| Das hängt davon ab             | That depends on ..               |                                                        |
+| Das hängt davon ab             | That depends on..                |                                                        |
 | früher benutzt es sein         | It used to be ..                 |                                                        |
 | hauptsächlich                  | mainly / primarily               |                                                        |
 | zusätzlich                     | additionally                     |                                                        |
