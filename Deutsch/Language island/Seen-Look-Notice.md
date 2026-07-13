@@ -7,3 +7,4 @@
 | **beobachten** | to observe carefully over time              | **Akk. only**                                               | Der Arzt beobachtet den Patienten.                   |
 | **merken**     | to notice, remember (it stays in your mind) | **Akk. only**                                               | Ich merke den Fehler.                                |
 | **bemerken**   | to notice, become aware of                  | **Akk. only**                                               | Ich habe den Fehler bemerkt.                         |
+| beachten       |                                             |                                                             |                                                      |

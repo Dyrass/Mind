@@ -1,15 +1,16 @@
 
 | Verb          | Action                            | Preposition      |
 | ------------- | --------------------------------- | ---------------- |
-| stehen        | to stand /be standing             | auf + D , an + D |
-| sitzen        | to sit / be sitting               |                  |
-| liegen        | to lye / be lying horizontally    |                  |
-| legen         | to lay smt                        |                  |
+| stehen        | stand /be standing                | auf + D , an + D |
 | stellen       | to put / be there vertically      |                  |
+| liegen        | lye / be lying horizontally       |                  |
+| legen         | to lay smt                        |                  |
 | stecken       | to put / be sticking sth into sth |                  |
 | packen        | to pack / be packing              |                  |
 | hängen        | to hang / be hanging              |                  |
 | ein \| räumen | put away                          |                  |
+| sitzen        | be sitting                        |                  |
+| setzen        | to sit                            |                  |
 ### WO? (Where?) → Dativ
 Location = no movement
 - Das Buch liegt **auf dem Tisch**.
