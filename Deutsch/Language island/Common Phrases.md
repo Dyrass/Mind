@@ -47,4 +47,5 @@
 | sonst noch                     | something else<br>anything else      |                                                                                        |                                                                                               |
 | ich bin kein                   | i am not ...                         |                                                                                        |                                                                                               |
 | Das ist echt so?               | thats how it is ..                   |                                                                                        |                                                                                               |
+| seit  + präsen                 | since .....                          | use präsens immer                                                                      |                                                                                               |
 

@@ -21,3 +21,4 @@
 | seitdem                        | since then                                                                    | ✅                                                                        |
 | nachdem                        | after that                                                                    | ✅                                                                        |
 | **einerseits... andererseits** | (on the one hand... on the other hand).                                       |                                                                          |
+| seit + Präsens                 | since                                                                         |                                                                          |
