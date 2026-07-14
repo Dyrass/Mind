@@ -48,4 +48,7 @@
 | ich bin kein                   | i am not ...                         |                                                                                        |                                                                                               |
 | Das ist echt so?               | thats how it is ..                   |                                                                                        |                                                                                               |
 | seit  + präsen                 | since .....                          | use präsens immer                                                                      |                                                                                               |
+| ein Wenig                      | a little                             |                                                                                        |                                                                                               |
+| vielleicht                     | perhaps / maybe                      |                                                                                        |                                                                                               |
+| Ungefähr                       | approx.                              |                                                                                        |                                                                                               |
 
