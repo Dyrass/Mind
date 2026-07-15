@@ -23,3 +23,4 @@
 | **einerseits... andererseits**             | (on the one hand... on the other hand).                                       |                                                                                                |
 | seit + Präsens                             | since                                                                         |                                                                                                |
 | nicht nur (adverb)....., Sondern+HP....... | not only ..... but also .......                                               | Auf Deutsch muss ich nicht nur hören und lesen, sondern muss auch viel sprechen und schreiben. |
+|                                            |                                                                               |                                                                                                |
