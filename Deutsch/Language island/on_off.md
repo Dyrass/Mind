@@ -5,7 +5,6 @@
 ## Aus : off 
 - Sein + Aus : tells the state that smth is off
 - Das handy ist aus
----
 
 | Verb            |     | Action       |                                     |
 | --------------- | --- | ------------ | ----------------------------------- |
