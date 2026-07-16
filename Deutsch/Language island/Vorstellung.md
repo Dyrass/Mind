@@ -21,4 +21,4 @@ Ich freue mich, heute hier zu sein und Sie kennenzulernen.
 Vielen Dank für Ihre Zeit. 
 
 why do you have a career change . 
-Nach Abschluss meines Bachelorstudiums durchlief ich eine schwierige persönliche Phase, die meine Karrierepläne verzögerte. In dieser Zeit überdachte ich meine Ziele, konzentrierte mich auf die Verbesserung meiner Deutschkenntnisse und entschied, dass der Aufbau einer langfristigen beruflichen Laufbahn in Deutschland durch eine Ausbildung der richtige Weg für mich ist. Seither setze ich mich voll und ganz dafür ein, mich auf diesen Schritt vorzubereiten.
+Ich habe meinen Bachelor abgeschlossen. Danach hatte ich eine schwierige persönliche Zeit. Deshalb konnte ich meine beruflichen Pläne nicht sofort umsetzen. In dieser Zeit habe ich viel über meine Zukunft nachgedacht und angefangen, Deutsch zu lernen. Jetzt bin ich motiviert, eine Ausbildung in Deutschland zu machen und langfristig hier zu arbeiten. Ich bin zuverlässig, lernbereit und freue mich auf neue Herausforderungen.
