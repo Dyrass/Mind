@@ -19,3 +19,6 @@ Ich lerne jeden Tag Deutsch, weil ich meine Sprachkenntnisse verbessern möchte.
 Ich freue mich, heute hier zu sein und Sie kennenzulernen.
 
 Vielen Dank für Ihre Zeit. 
+
+why do you have a career change . 
+Nach Abschluss meines Bachelorstudiums durchlief ich eine schwierige persönliche Phase, die meine Karrierepläne verzögerte. In dieser Zeit überdachte ich meine Ziele, konzentrierte mich auf die Verbesserung meiner Deutschkenntnisse und entschied, dass der Aufbau einer langfristigen beruflichen Laufbahn in Deutschland durch eine Ausbildung der richtige Weg für mich ist. Seither setze ich mich voll und ganz dafür ein, mich auf diesen Schritt vorzubereiten.
