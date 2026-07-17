@@ -3,13 +3,11 @@
 Dieses Dokument enthält strukturierte Karteikarten (Flashcards) für Anki, um die wichtigsten B2-Konnektoren, Redemittel und grammatikalischen Muster so schnell wie möglich zu verinnerlichen. 
 ## 🎴 Rohtext für den Import (Tab-getrennt)
 *Kopiere die folgenden Zeilen direkt in eine Textdatei für den Anki-Import:*
-
-
 Die Ausbildung ist zwar anstrengend, ... (aber man lernt extrem viel.)	zwar ..., aber ... (Grammatik: Hauptsatz-Wortstellung nach "aber")
 Ein Pflegeberuf erfordert nicht nur Fachwissen, ... (sondern auch viel Empathie.)	nicht nur ..., sondern auch ... (Grammatik: Aufzählung / Verstärkung)
 Ich möchte sowohl theoretisch lernen, ... (als auch praktisch arbeiten.)	sowohl ..., als auch ... (Grammatik: Gleichwertige Aufzählung)
 Je schneller ich Deutsch lerne, ... (desto besser kann ich kommunizieren.)	je ..., desto ... (Grammatik: je + Nebensatz [Verb am Ende], desto + Adjektiv + Verb im Hauptsatz)
-Da ich mich sehr für Medizin interessiere, ... (habe ich mich für diese Ausbildung entschieden.)	da... (Grammatik: da = Nebensatzkonjunktion [Verb ganz am Ende])
+Da ich mich sehr für Medizin interessiere, ... (habe ich mich für diese Ausbildung entschieden.)	da... (Grammatik: da = Nebensatz konjunktion [Verb ganz am Ende])
 Ich helfe gerne Menschen, deshalb ... (arbeite ich im Krankenhaus.)	deshalb / darum / deswegen ... (Grammatik: Verb folgt sofort auf Position 2)
 Ihre Anzeige hat mich sofort angesprochen, ... (da...)	Eröffnung (Brief) - Interesse bekunden
 Als ich mich über ... informierte, bin ich auf ... (Ihre vielversprechende Anzeige gestoßen.)	Eröffnung (Brief) - Bezugnahme auf Anzeige
