@@ -1,0 +1,2 @@
+https://looksmax.org/threads/fraudmaxxing-the-best-fraud-maxxing-guide-mega-thread.1964677/
+https://looksmax.org/threads/anti-porn-megathread-a-detailed-analysis-of-the-subhumanity-of-porn-addiction-how-to-quit-gtfih.2071000/
