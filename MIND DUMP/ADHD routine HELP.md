@@ -23,3 +23,5 @@ This removes all the unnecessarily open tasks from your life . That are taking s
 If its already very good timeline then you can stare at a wall then start your work .
 
 Courses are for ADHD people already structured , you need to already know what you are going to do and how you are going to do that 
+
+Never ever go full on your hobbies, if you like creating videos restrict the video creation time to a few hours by yourself, that will make you note burn out and quit that hobby within two days or 10 days or three weeks or four months. You will then be able to continue doing it for as long as you would like. If you like 3-D art restrict the 3-D art creation time to 12 or three hours a day and do not make it your main source of income yet otherwise you will burn out. You should also try to restrict tools that you use. Use the basic less the tools you use the Better, your heart will be the better you will be.
