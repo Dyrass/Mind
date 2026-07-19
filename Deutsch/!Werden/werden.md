@@ -14,6 +14,20 @@ Ich bin Lehrer geworden -> `have completed the process and is the after result o
 
 `ist + Geworden` , 
 `worden` is an variant of the `geworden` which is used mainly in Passiv voice.
+## `ist + Partizip II + worden`
+
+Used in **conversation** to talk about completed actions.
+**Pattern**
+```
+Subjekt + ist + Partizip II + worden
+```
+Examples:
+- **Ich bin abgelehnt worden.**
+    > I have been rejected.
+- **Das Haus ist gebaut worden.**
+    > The house has been built.
+- **Er ist verletzt worden.**
+    > He has been injured.
 # würden
 would ..... verb 
 never comes alone usually with other verb 
