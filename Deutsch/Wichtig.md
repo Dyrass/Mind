@@ -26,7 +26,6 @@
 - **zum Beispiel**
 - **beispielsweise**
 - **ein gutes Beispiel ist...**
----
 ## 6. Speculate
 - **vielleicht**
 - **wahrscheinlich**
@@ -53,12 +52,10 @@ Know the common words for:
 - Freizeit    
 - Wohnen
 ### The biggest B2 difference
-
 It's **not** using impossible grammar.
 It's being able to:
 - speak for **2-4 minutes without freezing**,
 - connect ideas smoothly,
 - explain and defend your opinion,
 - react naturally to another speaker.
-
 Since I know your goal is the Goethe exam and you've said your **reading is much stronger than your speaking**, I'd spend **80% of your time actually speaking**, not studying more grammar. You already have enough grammar to improve rapidly through output.
