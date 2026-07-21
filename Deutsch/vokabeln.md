@@ -17,6 +17,7 @@
 | mitten                               | middle                       | an/auf                                    |
 | zunächst , zum zweiten , zum dritten | firstly , secondly , thirdly |                                           |
 | langfristig                          | long term                    |                                           |
+| übertriebenes                        | excessive                    |                                           |
 
 - _verfolgen_
 - _intensiv_
