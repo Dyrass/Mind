@@ -1,0 +1,1 @@
+Es kommt bei beständig wiederholen von Vorgang , dass in Vergangenheit passieren hat . Unserer Gehirn wiederholen sie um uns zu schützen. Wir fangen an, alle mit dieser Mentalität zu sehen. Jede Person sieht
