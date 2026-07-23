@@ -18,6 +18,7 @@
 | zunächst , zum zweiten , zum dritten | firstly , secondly , thirdly |                                           |
 | langfristig                          | long term                    |                                           |
 | übertriebenes                        | excessive                    |                                           |
+| daurhaft                             | long lasting                 |                                           |
 
 - _verfolgen_
 - _intensiv_
