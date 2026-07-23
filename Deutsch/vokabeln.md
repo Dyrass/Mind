@@ -19,6 +19,7 @@
 | langfristig                          | long term                    |                                           |
 | übertriebenes                        | excessive                    |                                           |
 | daurhaft                             | long lasting                 |                                           |
+| Zustand                              | state / condition            |                                           |
 
 - _verfolgen_
 - _intensiv_
