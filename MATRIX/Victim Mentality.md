@@ -25,3 +25,4 @@ When everything is others fault , nothing is in your control.
 9. Du fühlst Kraftlos,  etw. für deine Situation zu andern. 
 10. Dein Geschichte entmutigt dich aber  es fühlt sich sicher , angenehm und es wird dich auf deinem Leben begrenzen .
 11. Du fühlst beständig , dass du die kurze ende von Holz bekommst. 
+12. Du weißt nicht, was du wolltest.
