@@ -13,3 +13,6 @@ Wenn man eine schwierig Erfahrung erfahren, und er kann nicht entgehen oder eine
 ```
 When everything is others fault , nothing is in your control. 
 ```
+
+1. Du wiederholst immer die gleiche Grunde , warum kannst du deine Situation nicht entgehen oder guter Erlebnisse erfahren. meistens klingen diese Grunde sehr recht und komplett begründet im Gehirn.
+2. Der Wunsch , gerettet zu werden und warten auf jemand , dass mich retten wird . 
