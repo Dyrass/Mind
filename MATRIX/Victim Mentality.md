@@ -20,4 +20,8 @@ When everything is others fault , nothing is in your control.
 4. Dein Negatives Leben ist immer das Ergebnis dessen, was dir passiert ist. anstatt dessen , was du gemacht hast oder wählen hast.
 5. Du glaubst , dass sich  die Welt gegen dich verschworen hat.
 6. Du wiederholst die gleiche wehleidige Erinnerung aus der Vergangenheit mit 0 Chancen auf Heilung.
-7. Du redest oft , wie du stuck bist 
+7. Du redest oft , wie du Gesteckt bist. 
+8. Du vermeidest das Unterstützen , das hilfsbereites Reagieren und Unterrichtung . 
+9. Du fühlst Kraftlos,  etw. für deine Situation zu andern. 
+10. Dein Geschichte entmutigt dich aber  es fühlt sich sicher , angenehm und es wird dich auf deinem Leben begrenzen .
+11. Du fühlst beständig , dass du die kurze ende von Holz bekommst. 
