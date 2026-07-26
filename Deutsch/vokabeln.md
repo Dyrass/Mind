@@ -21,9 +21,7 @@
 | daurhaft                             | long lasting                 |                                           |
 | Zustand                              | state / condition            |                                           |
 | eklig                                | disgusting                   |                                           |
-
-- _verfolgen_
-- _intensiv_
-- _beschäftigen_
-- _berufliche Ziele_
-- _persönliche Phase_
+| zusammenfassen.                      | to summarise                 |                                           |
+| streich                              | strike / prank               |                                           |
+| verfolgen                            | pursue                       |                                           |
+| berufliche Ziele                     | carrier goals/aspirations    |                                           |
