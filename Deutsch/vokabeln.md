@@ -20,6 +20,7 @@
 | übertriebenes                        | excessive                    |                                           |
 | daurhaft                             | long lasting                 |                                           |
 | Zustand                              | state / condition            |                                           |
+| eklig                                | disgusting                   |                                           |
 
 - _verfolgen_
 - _intensiv_
