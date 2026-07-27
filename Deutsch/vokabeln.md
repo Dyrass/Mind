@@ -25,3 +25,4 @@
 | streich                              | strike / prank               |                                           |
 | verfolgen                            | pursue                       |                                           |
 | berufliche Ziele                     | carrier goals/aspirations    |                                           |
+| heimlich                             | secret                       |                                           |
