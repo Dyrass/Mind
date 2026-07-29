@@ -206,7 +206,7 @@
 
 > It’s when you need it the most the Fakery will fail you.
 
-> Discipline is only useful for Physical task and Motivation is only useful for Mental Tasks .                          ————> because if you do physical activity your mind isn’t working and is free to use willpower . When you are doing something mentally your mind is used to its limit hence you need a motivation or it won’t waste you body’s resources on it because they are hard to come by while physical is easy because its resources are easy to come by . 
+> Discipline is only useful for Physical task and Motivation is only useful for Mental Tasks .                    ————> because if you do physical activity your mind isn’t working and is free to use willpower . When you are doing something mentally your mind is used to its limit hence you need a motivation or it won’t waste you body’s resources on it because they are hard to come by while physical is easy because its resources are easy to come by . 
 
 > The funny thing about socialism is that eventually you will run out of other people’s money.
 
@@ -216,7 +216,7 @@
 
 > The GPS will always lead to the destination no matter how many times does it have to recalculate the route. 
 
-> The day you discover what you love , you will search desperately for time to do that more and more . 
+> The day you discover what you love , you will search desperately for time to do that more and more.
 
 > Chad is rare, STEMcels are common, lookism is undefeated.
 

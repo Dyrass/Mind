@@ -1,5 +1,5 @@
 [[Hopeless]] and [[Cognitive dissonance]] are the breeding grounds for NPC Crabs.
-
+[[Victim Mentality]]
 ---
 If i can't do this , neither can you .... if i can't have it neither can you .... if you i can't be big neither can you ....
 this is called Crab Mentality
