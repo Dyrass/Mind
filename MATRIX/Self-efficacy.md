@@ -1,0 +1,1 @@
+belief in your own capability directly changes effort and persistence

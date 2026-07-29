@@ -26,3 +26,5 @@ When everything is others fault , nothing is in your control.
 10. Dein Geschichte entmutigt dich aber  es fühlt sich sicher , angenehm und es wird dich auf deinem Leben begrenzen .
 11. Du fühlst beständig , dass du die kurze ende von Holz bekommst. 
 12. Du weißt nicht, was du wolltest.
+
+**Self-fulfilling prophecy** / **expectancy effect**: expecting a bad outcome makes you disengage (confirms the bad outcome); expecting a good one keeps you looking for paths forward (confirms the good one).

@@ -1,3 +1,5 @@
+your brain filters what it notices based on what you're looking for. Expect obstacles → you see obstacles. Expect opportunities → you start noticing those instead (nothing changed except your filter).
+
 The human brain processes raw sensory data at roughly 11 million bits per second, but your conscious mind can only process about 40 to 120 bits per second.
 
 That means over 99.999% of the information your senses take in gets discarded or handled automatically below conscious awareness. To prevent your brain from burning out on sensory overload, it relies on a powerful biological filtering system driven directly by your beliefs, expectations, and focus.
@@ -29,16 +31,13 @@ The brain is not a passive camera; it is a prediction engine. Based on your prio
 Example: If you strongly believe people in a room are hostile, your brain prioritizes subtle facial twitches or crossed arms that match that expectation while filtering out warm smiles or neutral postures.
 
 ### Cognitive Schemas & Salience Networks
-
 Beliefs form dense mental frameworks called schemas. When a schema is activated, your salience network (involving the anterior insula and dorsal anterior cingulate cortex) flags schema-consistent information as "high priority."
 
 - When you decide to buy a specific red car, your brain suddenly notices that red car everywhere on the highway. The cars were always there, but your RAS was previously filtering them out as low-relevance noise.
 ### Confirmation Bias at the Neural Level
-
 When incoming data contradicts a deeply held belief, processing it requires significant cognitive energy and creates psychological discomfort (cognitive dissonance). To save energy and preserve internal stability, the brain's filtering mechanisms naturally block, minimize, or re-interpret contradicting evidence before it ever reaches conscious awareness.
 
 ---
-
 User prompt: What are practical, evidence-based methods to reprogram the Reticular Activating System (RAS) and change subconscious attention filters?
 
 Response: To change what your brain automatically notices, you don't need to "hack" your biology — you need to systematically retrain its top-down priority list.
