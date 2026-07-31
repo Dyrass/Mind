@@ -11,14 +11,14 @@ It uses [[werden]] to make passiv
 
 ### Akku switches place with Nominativ 
 
-| ist + PII + worden                                                      | wird + PII                                                         |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| bread and butter of deutsch                                             | präsens                                                            |
-| jo phele ho chuka h <br>completed action                                | jo abhi ho rha h ya hoga <br>happening or will happen              |
-| `has been .. `                                                          | `is being `                                                        |
-| Das Essen ist vorbereitet worden<br>*(The food **has been prepared.**)* | Das Essen wird vorbereitet.<br>*(The food **is being prepared.**)* |
-| Diese Licht ist eingeschaltet worden                                    | Diese Licht wird eingeschaltet                                     |
-| Ich bin von vielen Männern abgelehnt worden                             | Ich werde von vielen Männern abgelehnt.                            |
+| ist + PII + worden                                                      | wird + PII                                                         | Perfekt            |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------ |
+| bread and butter of deutsch                                             | präsens                                                            |                    |
+| jo phele ho chuka h <br>completed action                                | jo abhi ho rha h ya hoga <br>happening or will happen              | jo abhi just hua h |
+| `has/have been .. `                                                     | `is being `                                                        | `have/has ...`     |
+| Das Essen ist vorbereitet worden<br>*(The food **has been prepared.**)* | Das Essen wird vorbereitet.<br>*(The food **is being prepared.**)* |                    |
+| Diese Licht ist eingeschaltet worden                                    | Diese Licht wird eingeschaltet                                     |                    |
+| Ich bin von vielen Männern abgelehnt worden                             | Ich werde von vielen Männern abgelehnt.                            |                    |
 
 ---
 ### geworden vs worden
