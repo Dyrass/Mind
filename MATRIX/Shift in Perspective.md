@@ -230,6 +230,8 @@
 
 > The odds are low because most people try fully so they end up joining the 99% and what they thought ends up becoming reality . 
 
+> "you are trying to seek attention" --> often said by the most *attention* seeking narcissist 
+
 
 
 
