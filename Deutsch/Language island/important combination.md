@@ -1,31 +1,22 @@
-- 
-- 
-- 
-- Zeit begrenzen
-- Energieverbrauch begrenzen
-- Geschwindigkeit begrenzen
-  begrenzen = einschränken / to limit
-  # treten 
-- **eine Stelle antreten**
-- **eine Prüfung antreten**
 
-| Verb              | Meaning                                                 |
-| ----------------- | ------------------------------------------------------- |
-| treten            | to step, kick                                           |
-| antreten          | start, take (job/exam/journey)                          |
-| zurücktreten      | resign                                                  |
-| beitreten         | join                                                    |
-| eintreten         | enter, occur, come into force                           |
-| auftreten         | appear, occur, perform                                  |
-|                   |                                                         |
-| vertreten         | represent, stand in for                                 |
-| **verbergen**     | conceal, hide (often abstract or formal)                |
-| **verstecken**    | hide physically                                         |
-| **verschweigen**  | deliberately keep something secret by not mentioning it |
-| Kosten begrenzen  | = limit kosten                                          |
-| Risiken begrenzen | = limit risk                                            |
-| Schaden begrenzen | = limit Damage                                          |
-|                   |                                                         |
+| Verb                       | Meaning                       |
+| -------------------------- | ----------------------------- |
+| treten                     | to step, kick                 |
+| zurücktreten               | resign                        |
+| beitreten                  | join                          |
+| eintreten                  | enter, occur, come into force |
+| auftreten                  | appear, occur, perform        |
+|                            |                               |
+| vertreten                  | represent, stand in for       |
+| **verstecken**             | hide physically               |
+| Kosten begrenzen           | = limit kosten                |
+| Risiken begrenzen          | = limit risk                  |
+| Schaden begrenzen          | = limit Damage                |
+| Zeit begrenzen             | = limit Time                  |
+| Energieverbrauch begrenzen | = limit energy expenditure    |
+| Geschwindigkeit begrenzen  | = limit speed                 |
+| eine Stelle antreten       | = to take a job               |
+| eine Prüfung antreten      | = to take a exam              |
 
 | Item                                      |                                  |
 | ----------------------------------------- | -------------------------------- |
@@ -47,3 +38,4 @@
 | aufsatz                                   | = article / essay                |
 | absatz                                    | = paragraph                      |
 | der Gegensatz                             | = Kontrast / opposition          |
+| zusatz                                    | = addition / zusätzlich          |
