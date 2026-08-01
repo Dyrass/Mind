@@ -39,3 +39,5 @@
 | absatz                                    | = paragraph                      |
 | der Gegensatz                             | = Kontrast / opposition          |
 | zusatz                                    | = addition / zusätzlich          |
+| Unsinkbar                                 | = Unsinkable                     |
+| Unsichtbar                                | = Invisible                      |
