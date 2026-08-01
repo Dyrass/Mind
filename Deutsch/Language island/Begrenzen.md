@@ -22,3 +22,10 @@
 | **verbergen**    | conceal, hide (often abstract or formal)                |
 | **verstecken**   | hide physically                                         |
 | **verschweigen** | deliberately keep something secret by not mentioning it |
+- Schäden verursachen = to cause damage
+- Probleme verursachen = to cause problems
+- Kosten verursachen = to incur/cause costs
+- Schmerzen verursachen = to cause pain
+- Lärm verursachen = to cause noise
+- Stress verursachen = to cause stress
+- Umweltverschmutzung verursachen = to cause pollution
