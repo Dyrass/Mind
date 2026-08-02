@@ -10,3 +10,4 @@
 |machen (Video)|aufnehmen, bearbeiten, veröffentlichen|
 |sein|sich befinden, wirken|
 ![[Pasted image 20260721000053.png]]
+sehen | lassen | helfen | hören 

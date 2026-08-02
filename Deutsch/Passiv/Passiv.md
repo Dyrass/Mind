@@ -35,3 +35,12 @@ It describes the **result or state**, **not the action**.
 |**Das Fenster wird geöffnet.**|The window **is being opened.** (action)|
 |**Das Fenster ist geöffnet worden.**|The window **has been opened.** (completed action)|
 |**Das Fenster ist geöffnet.**|The window **is open.** (state/result)|
+
+| Active       | Passive                |       |                                  |
+| ------------ | ---------------------- | ----- | -------------------------------- |
+| baut         | **wird gebaut**        | ***** | Das Haus **wird gebaut**.        |
+| baute        | **wurde gebaut**       | ***   | Das Haus **wurde gebaut**.       |
+| hat gebaut   | **ist gebaut worden**  | ****  | Das Haus **ist gebaut worden**.  |
+| hatte gebaut | **war gebaut worden**  | -     | Das Haus **war gebaut worden**.  |
+| wird bauen   | **wird gebaut werden** | -     | Das Haus **wird gebaut werden**. |
+|              |                        |       |                                  |

@@ -23,11 +23,11 @@ Subjekt + ist + Partizip II + worden
 ```
 Examples:
 - **Ich bin abgelehnt worden.**
-    > I have been rejected.
+> I have been rejected.
 - **Das Haus ist gebaut worden.**
-    > The house has been built.
+> The house has been built.
 - **Er ist verletzt worden.**
-    > He has been injured.
+> He has been injured.
 # würden
 would ..... verb 
 never comes alone usually with other verb 
