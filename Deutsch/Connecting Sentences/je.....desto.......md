@@ -1,4 +1,6 @@
-the ........ , the........
+```Eng
+The more A changes, the more B changes.
+```
  
 Je schneller ich Deutsch <font color="#ffff00">lerne</font> und mich <font color="#ffff00">bewerbe</font>, desto schneller <font color="#ffff00">kann</font> ich nach Deutschland <font color="#ffff00">ziehen</font>.
 

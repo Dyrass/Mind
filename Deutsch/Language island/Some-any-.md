@@ -10,7 +10,7 @@ irgend = "I don't know exactly / I don't care exactly."
 | **irgendwo**                | somewhere                |
 | **irgendwohin**             | to somewhere             |
 | **irgendwoher**             | from somewhere           |
-| **irgendwann**              | sometime                 |
+| **irgendwann**              | sometime / at any time   |
 | **irgendwie**               | somehow                  |
 | **irgendwelche**            | some / any (plural)      |
 | **irgendein**               | some / any (singular)    |
