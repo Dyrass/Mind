@@ -40,6 +40,7 @@
 | zusatz                                    | = addition / zusätzlich          |
 | Unsinkbar                                 | = Unsinkable                     |
 | Unsichtbar                                | = Invisible                      |
+| sich an jemanden wenden                   | = to turn to someone for help    |
 
 | Item            |                |
 | --------------- | -------------- |
