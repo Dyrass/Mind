@@ -83,3 +83,7 @@
 | verbrauchen     | to consume                    |
 | übernehmen      | to take over                  |
 | auffallen       | to stand out                  |
+- **kurz davor sein, etwas zu tun** = to be about to do something
+- **gerade dabei sein, etwas zu tun** = to be in the process of / about to do something
+- **gleich** = about to / in a moment (everyday speech)
+- Victim → **Opfer**, Loser → **Versager**, Lens → **Linse**, Scrolling → **Scrollen**
