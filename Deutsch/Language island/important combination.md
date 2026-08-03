@@ -82,3 +82,4 @@
 | verbringen      | to spend                      |
 | verbrauchen     | to consume                    |
 | übernehmen      | to take over                  |
+| auffallen       | to stand out                  |
