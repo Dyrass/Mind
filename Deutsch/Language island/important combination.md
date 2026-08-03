@@ -6,7 +6,6 @@
 | beitreten                  | join                          |
 | eintreten                  | enter, occur, come into force |
 | auftreten                  | appear, occur, perform        |
-|                            |                               |
 | vertreten                  | represent, stand in for       |
 | **verstecken**             | hide physically               |
 | Kosten begrenzen           | = limit kosten                |
@@ -41,3 +40,44 @@
 | zusatz                                    | = addition / zusätzlich          |
 | Unsinkbar                                 | = Unsinkable                     |
 | Unsichtbar                                | = Invisible                      |
+
+| Item            |                |
+| --------------- | -------------- |
+| Zugriff         | grasp          |
+| Rückmeldung     | feedback       |
+| Vereinbarung    | arrangement    |
+| Verantwortung   | responsibility |
+| Verhalten       | behaviour      |
+| Herausforderung | difficulties   |
+| Voraussetzung   | requirements   |
+| Maßnahme        | measure        |
+| Frist           | deadline       |
+| Einschätzung    | assessment     |
+| Panne           | breakdown      |
+| Zusammenarbeit  | cooperation    |
+| Schluss         | end            |
+| Bereich         | area           |
+
+
+| Item            | answerrrrrrrr                 |
+| --------------- | ----------------------------- |
+| berücksichtigen | to take into consideration    |
+| begründen       | justify                       |
+| berichten       | to report                     |
+| versagen        | to fail                       |
+| sich beschweren | complain                      |
+| sich wehren     | to defend                     |
+| eingreifen      | intervine                     |
+| drohen          | threaten                      |
+| beeinträchtigen | negative effect               |
+| vorbereiten     | to prepare                    |
+| erledigen       | to start and complete full    |
+| wechseln        | replace                       |
+| vereinbaren     | to arrange                    |
+| schildern       | to describe in detail         |
+| vermuten        | to suspect / suppose          |
+| weitermachen    | continue forward with smthing |
+| beanspruchen    | to require smth               |
+| verbringen      | to spend                      |
+| verbrauchen     | to consume                    |
+| übernehmen      | to take over                  |
