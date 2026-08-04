@@ -60,30 +60,34 @@
 | Bereich         | area           |
 
 
-| Item            | answerrrrrrrr                 |
-| --------------- | ----------------------------- |
-| berücksichtigen | to take into consideration    |
-| begründen       | justify                       |
-| berichten       | to report                     |
-| versagen        | to fail                       |
-| sich beschweren | complain                      |
-| sich wehren     | to defend                     |
-| eingreifen      | intervine                     |
-| drohen          | threaten                      |
-| beeinträchtigen | negative effect               |
-| vorbereiten     | to prepare                    |
-| erledigen       | to start and complete full    |
-| wechseln        | replace                       |
-| vereinbaren     | to arrange                    |
-| schildern       | to describe in detail         |
-| vermuten        | to suspect / suppose          |
-| weitermachen    | continue forward with smthing |
-| beanspruchen    | to require smth               |
-| verbringen      | to spend                      |
-| verbrauchen     | to consume                    |
-| übernehmen      | to take over                  |
-| auffallen       | to stand out                  |
-- **kurz davor sein, etwas zu tun** = to be about to do something
-- **gerade dabei sein, etwas zu tun** = to be in the process of / about to do something
-- **gleich** = about to / in a moment (everyday speech)
+| Item              | Answers                       |
+| ----------------- | ----------------------------- |
+| berücksichtigen   | to take into all account      |
+| begründen         | to justify / give reason for  |
+| berichten         | report                        |
+| versagen          | fail                          |
+| sich beschweren   | to complain                   |
+| sich wehren       | to fight back                 |
+| eingreifen        | to intervene                  |
+| drohen            | to threaten                   |
+| beeinträchtigen   | to effect negatively / impair |
+| vorbereiten       | to prepare                    |
+| erledigen         | to complete fully             |
+| wechseln          | to replace / change           |
+| vereinbaren       | to arrange                    |
+| schildern         | to describe in detail         |
+| vermuten          | to suspect / assume           |
+| weitermachen      | to continue forward           |
+| beanspruchen      | to require time               |
+| verbringen        | to spend time                 |
+| verbrauchen       | to consume                    |
+| übernehmen        | to take ove                   |
+| auffallen         | to stand out                  |
+| gleich            | in moment                     |
+
+### Important correction
+- **gerade dabei sein + zu + Infinitiv** = **to be in the process of doing something**
+- _Ich bin gerade dabei, Hausaufgaben zu machen._ = _I'm doing my homework right now._
+- **about to do** = **gerade im Begriff sein, etwas zu tun** or **kurz davor sein, etwas zu tun**
+- _Ich bin gerade im Begriff zu gehen._ = _I'm about to leave._
 - Victim → **Opfer**, Loser → **Versager**, Lens → **Linse**, Scrolling → **Scrollen**
