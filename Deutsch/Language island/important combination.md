@@ -41,6 +41,7 @@
 | Unsinkbar                                 | = Unsinkable                     |
 | Unsichtbar                                | = Invisible                      |
 | sich an jemanden wenden                   | = to turn to someone for help    |
+| erwähnen                                  | = to mention                     |
 
 | Item            |                 |
 | --------------- | --------------- |
@@ -63,30 +64,31 @@
 | durchschaut     | see through     |
 
 
-| Item              | Answers                       |
-| ----------------- | ----------------------------- |
-| berücksichtigen   | to take into all account      |
-| begründen         | to justify / give reason for  |
-| berichten         | report                        |
-| versagen          | fail                          |
-| sich beschweren   | to complain                   |
-| sich wehren       | to fight back                 |
-| eingreifen        | to intervene                  |
-| drohen            | to threaten                   |
-| beeinträchtigen   | to effect negatively / impair |
-| vorbereiten       | to prepare                    |
-| erledigen         | to complete fully             |
-| wechseln          | to replace / change           |
-| vereinbaren       | to arrange                    |
-| schildern         | to describe in detail         |
-| vermuten          | to suspect / assume           |
-| weitermachen      | to continue forward           |
-| beanspruchen      | to require time               |
-| verbringen        | to spend time                 |
-| verbrauchen       | to consume                    |
-| übernehmen        | to take ove                   |
-| auffallen         | to stand out                  |
-| gleich            | in moment                     |
+| Item            | Answers                       |
+| --------------- | ----------------------------- |
+| berücksichtigen | to take into all account      |
+| begründen       | to justify / give reason for  |
+| berichten       | report                        |
+| versagen        | fail                          |
+| absagen         | cancel                        |
+| sich beschweren | to complain                   |
+| sich wehren     | to fight back                 |
+| eingreifen      | to intervene                  |
+| drohen          | to threaten                   |
+| beeinträchtigen | to effect negatively / impair |
+| vorbereiten     | to prepare                    |
+| erledigen       | to complete fully             |
+| wechseln        | to replace / change           |
+| vereinbaren     | to arrange                    |
+| schildern       | to describe in detail         |
+| vermuten        | to suspect / assume           |
+| weitermachen    | to continue forward           |
+| beanspruchen    | to require time               |
+| verbringen      | to spend time                 |
+| verbrauchen     | to consume                    |
+| übernehmen      | to take ove                   |
+| auffallen       | to stand out                  |
+| gleich          | in moment                     |
 
 ### Important correction
 - **gerade dabei sein + zu + Infinitiv** = **to be in the process of doing something**
