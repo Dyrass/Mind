@@ -60,6 +60,7 @@
 | Bereich         | area            |
 | dagegen         | against it/that |
 | soweit          | as far as       |
+| durchschaut     | see through     |
 
 
 | Item              | Answers                       |
