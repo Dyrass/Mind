@@ -42,22 +42,24 @@
 | Unsichtbar                                | = Invisible                      |
 | sich an jemanden wenden                   | = to turn to someone for help    |
 
-| Item            |                |
-| --------------- | -------------- |
-| Zugriff         | grasp          |
-| Rückmeldung     | feedback       |
-| Vereinbarung    | arrangement    |
-| Verantwortung   | responsibility |
-| Verhalten       | behaviour      |
-| Herausforderung | difficulties   |
-| Voraussetzung   | requirements   |
-| Maßnahme        | measure        |
-| Frist           | deadline       |
-| Einschätzung    | assessment     |
-| Panne           | breakdown      |
-| Zusammenarbeit  | cooperation    |
-| Schluss         | end            |
-| Bereich         | area           |
+| Item            |                 |
+| --------------- | --------------- |
+| Zugriff         | grasp           |
+| Rückmeldung     | feedback        |
+| Vereinbarung    | arrangement     |
+| Verantwortung   | responsibility  |
+| Verhalten       | behaviour       |
+| Herausforderung | difficulties    |
+| Voraussetzung   | requirements    |
+| Maßnahme        | measure         |
+| Frist           | deadline        |
+| Einschätzung    | assessment      |
+| Panne           | breakdown       |
+| Zusammenarbeit  | cooperation     |
+| Schluss         | end             |
+| Bereich         | area            |
+| dagegen         | against it/that |
+| soweit          | as far as       |
 
 
 | Item              | Answers                       |
