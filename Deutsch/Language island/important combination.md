@@ -98,3 +98,10 @@
 - **about to do** = **gerade im Begriff sein, etwas zu tun** or **kurz davor sein, etwas zu tun**
 - _Ich bin gerade im Begriff zu gehen._ = _I'm about to leave._
 - Victim → **Opfer**, Loser → **Versager**, Lens → **Linse**, Scrolling → **Scrollen**
+### Difference from similar verbs
+- **ignorieren** = to ignore (general, neutral)
+    - _Sie ignoriert meine Nachrichten._
+- **missachten** = to disregard something that **should be respected**
+    - _Er missachtet das Gesetz._
+- **verletzen** = to violate or infringe (often rights, laws, agreements)
+    - _Die Firma hat den Vertrag verletzt._
