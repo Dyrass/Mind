@@ -15,4 +15,19 @@
 - Das Heilen von Resistance ist Akzept 
 - Man soll zunächst einen Kurzen Teil versuchen , zu machen . 
 - Man muss zu ihre Gehirn zeigen , dass Konfusion normal ist . 
-- man soll nicht Angst haben , bevor er etwas tun . nur später . 
+- man soll nicht Angst haben , bevor er etwas tun . nur später . \\
+
+
+## Why This Happens
+
+### 1. Productive Procrastination & Cognitive Avoidance
+
+When faced with a complex task, your brain seeks to lower its baseline anxiety. Switching browsers or searching for new information gives the illusion of "doing something," which temporarily distracts you from the threat of feeling stuck or overwhelmed.
+
+### 2. Identity Protection (Ego Defense)
+
+If you stay with a problem and fail to solve it, your brain interprets that outcome as evidence that you "aren't capable." By walking away to scroll or open new tabs, you create a buffer: _I didn't fail because I wasn't smart enough; I just got distracted._ It protects your self-esteem in the short term, even though it costs you time in the long term.
+
+### 3. The Novelty Trap & Dopamine Loop
+
+Uncertainty causes mild stress. Platforms like YouTube offer immediate resolution, novel information, and quick answers. Over time, your brain learns to associate "hitting a wall" with "triggering a reward loop elsewhere."
