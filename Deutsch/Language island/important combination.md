@@ -43,6 +43,7 @@
 | sich an jemanden wenden                   | = to turn to someone for help    |
 | erwähnen                                  | = to mention                     |
 | **der Einsatz von + Dativ**               | = the use of                     |
+| vorrang                                   |                                  |
 
 | Item            |                 |
 | --------------- | --------------- |
