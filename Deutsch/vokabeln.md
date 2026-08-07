@@ -30,3 +30,9 @@
 | Bedrohlich                           | threatening                  |                                           |
 | messen                               | to measure                   |                                           |
 | Untersuchen                          | to examine / test            |                                           |
+| Der Chirurg                          | surgeon                      |                                           |
+| Der Sanitäter                        | first aider                  |                                           |
+| Verletzten                           | hurt / injure                |                                           |
+| die Notaufnahme                      | ER room                      |                                           |
+| Der Blutdruck                        | Blood pressure               |                                           |
+| Ambulanter Person                    | Discharged person            |                                           |
