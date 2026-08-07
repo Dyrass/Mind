@@ -26,3 +26,7 @@
 | verfolgen                            | pursue                       |                                           |
 | berufliche Ziele                     | carrier goals/aspirations    |                                           |
 | heimlich                             | secret                       |                                           |
+| Lebensbedrohlich                     | life threatening             |                                           |
+| Bedrohlich                           | threatening                  |                                           |
+| messen                               | to measure                   |                                           |
+| Untersuchen                          | to examine / test            |                                           |

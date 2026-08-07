@@ -44,3 +44,10 @@ It describes the **result or state**, **not the action**.
 | hatte gebaut | **war gebaut worden**  | -     | Das Haus **war gebaut worden**.  |
 | wird bauen   | **wird gebaut werden** | -     | Das Haus **wird gebaut werden**. |
 |              |                        |       |                                  |
+|              |                        |       |                                  |
+
+---
+- **Während das Essen kalt wird, decke ich den Tisch.**  
+    = While the food is getting cold, I set the table.
+- **Während er älter wird, wird er ruhiger.**  
+    = As he gets older, he becomes calmer.
