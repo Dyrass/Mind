@@ -35,6 +35,13 @@ never comes alone usually with other verb
 würden + gehen = would go / would be going 
 ```
 
+| German                       | Meaning     |
+| ---------------------------- | ----------- |
+| **wird + Adjektiv + sein**   | will be     |
+| **wird + Nomen + sein**      | will be     |
+| **wird + Adjektiv + werden** | will become |
+| **wird + Nomen + werden**    | will become |
+
 |Expression|Meaning|Tone|
 |---|---|---|
 |**Ich möchte gern...**|I would like...|Standard, natural ⭐⭐⭐⭐⭐|
