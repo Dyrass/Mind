@@ -1,0 +1,1 @@
+Dürfen sie nie zu extreme Ende von der Spectrum . Wenn man ein von der Ende geht , dann verliert man seine Motivation , um vorne durchzusetzen . Fall man eine Herausforderung oder langweilige Aufgabe schaffen möchte , muss man nur bis 25% Anstrengung zu arbeiten ,damit er nicht Erschöpft wird . 
