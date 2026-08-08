@@ -31,3 +31,15 @@ If you stay with a problem and fail to solve it, your brain interprets that outc
 ### 3. The Novelty Trap & Dopamine Loop
 
 Uncertainty causes mild stress. Platforms like YouTube offer immediate resolution, novel information, and quick answers. Over time, your brain learns to associate "hitting a wall" with "triggering a reward loop elsewhere."
+
+```faxx
+You don't hate difficult problems. You hate waiting indefinitely for the environment to tell you whether you're making progress.
+```
+
+```faxx
+You naturally think in sequences, visual states, rhythm, composition and finished outcomes.
+```
+
+```faxx
+You need an environment where ideas become externally visible quickly.
+```
