@@ -8,3 +8,9 @@
 6. You can use many different music in a single short video usually same feeling music 
 7. Show , don't tell 
 	1. Finden sie ein Beweis ,anstatt zufällige B-Roll oder Falsche Information
+8. Use Licht masking , arrows and contrast to guide people to your videos . 
+9. use contrast based editing 
+	1. one contrast can be using many cuts with many effects then immediately switch to plain clip 
+10. use reverb instead of fade out when u finish music 
+11. Keep unprofessional and cute things in the video don't make it perfect . it will make you less AI. 
+12. Avoid too much sound Design . 
