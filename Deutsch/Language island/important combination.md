@@ -111,3 +111,5 @@ ausleeren -> empty out / drain
 erholen -> recover
 geräusch -> noise 
 gerecht  -> just 
+ausschnitt -> clipping / part 
+abdecken -> to coverup / to conceal 
