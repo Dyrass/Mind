@@ -105,3 +105,9 @@
     - _Er missachtet das Gesetz._
 - **verletzen** = to violate or infringe (often rights, laws, agreements)
     - _Die Firma hat den Vertrag verletzt._
+wischen -> to wipe 
+der flur  ->Hallway 
+ausleeren -> empty out / drain 
+erholen -> recover
+geräusch -> noise 
+gerecht  -> just 
