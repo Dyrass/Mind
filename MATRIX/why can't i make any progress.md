@@ -43,3 +43,7 @@ You naturally think in sequences, visual states, rhythm, composition and finishe
 ```faxx
 You need an environment where ideas become externally visible quickly.
 ```
+
+- In moment , wenn dein Gehirn will zu entgehen , soll man immer für langer bleiben . 
+- Man soll deine Situation akzeptieren , wo auch sie sich befinden . 
+- 
