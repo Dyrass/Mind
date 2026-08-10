@@ -36,6 +36,33 @@
 | die Notaufnahme                      | ER room                      |                                           |
 | Der Blutdruck                        | Blood pressure               |                                           |
 | Ambulanter Person                    | Discharged person            |                                           |
+| geringfügigen                        | minor                        |                                           |
+| mäßigen                              | moderate                     |                                           |
+| beträchtlichen                       | considerable                 |                                           |
+| eindeutig                            | klar                         |                                           |
+| Rasant                               | sehr schnell                 |                                           |
+| vorteilhaft                          | advantageous                 | -haft  ->> -ous                           |
+| passende                             | eignen / fitting / suitable  | un                                        |
+| adäquate                             | sufficient                   |                                           |
+| Banal                                |                              |                                           |
+| gravierend                           | serious / ernst / stark      |                                           |
+| seltene                              | rare                         |                                           |
+| gängig                               | üblich  / normal             |                                           |
+| wichtig                              | maßgeblich                   |                                           |
+| sicher                               | zuverlässig                  |                                           |
+| verschieden                          | unterschiedlich              |                                           |
+| genau                                | akribish                     |                                           |
+| falsch                               | fehlerhaft                   |                                           |
+| kompliziert                          | mühsam                       |                                           |
+| schwach                              | minimal                      |                                           |
+| ein bisschen                         | minimal                      |                                           |
+| besonders                            | spezifisch                   |                                           |
+| einfach                              | unkompliziert                |                                           |
+| schwer                               | schwerwiegend                |                                           |
+| überflüssig                          | unnötig                      |                                           |
+| machbar                              | möglich                      |                                           |
+| unbekannt                            | anonym                       |                                           |
+|                                      |                              |                                           |
 
 | #   | German                                  | English                       |                                                                           |
 | --- | --------------------------------------- | ----------------------------- | ------------------------------------------------------------------------- |

@@ -16,6 +16,7 @@
 | Geschwindigkeit begrenzen  | = limit speed                 |
 | eine Stelle antreten       | = to take a job               |
 | eine Prüfung antreten      | = to take a exam              |
+|                            |                               |
 
 | Item                                      |                                  |
 | ----------------------------------------- | -------------------------------- |
