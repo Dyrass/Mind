@@ -26,4 +26,26 @@ Courses are for ADHD people already structured , you need to already know what y
 
 Never ever go full on your hobbies, if you like creating videos restrict the video creation time to a few hours by yourself, that will make you note burn out and quit that hobby within two days or 10 days or three weeks or four months. You will then be able to continue doing it for as long as you would like. If you like 3-D art restrict the 3-D art creation time to 12 or three hours a day and do not make it your main source of income yet otherwise you will burn out. You should also try to restrict tools that you use. Use the basic less the tools you use the Better, your heart will be the better you will be.
 
-Gym and physical excersice is needed is for an adhd . 
+Gym and physical exercise is needed is for an adhd . 
+
+use identity -> im someone who does things instead of i need to do that . tell yourself i like to do it everyday and it will follow .  
+
+leave the things and task as it is so you can continue where u left off -> leave the anki , claude , deutsch channel , resolve open all the time 
+
+compete against something -> im doing that before this happens , im doing this thing in under 10 mins etc 
+
+do smthig worse/hard before your main identity thing . 
+
+make your rewards also worse so you can give more of them and in increasign order 
+
+
+~~~
+The bigger the spike at the beginning , the faster everything after it will fade . 
+~~~
+
+your brain reacts more to knowing that the reward is coming then the reward. 
+
+if you are giving yourself rewards stretch them across a long time and don't give them until the due time and event happened. ]
+
+
+win the first domino 
