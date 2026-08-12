@@ -12,3 +12,6 @@
 # Color
 1. correct the main subject first and then everything else 
 2. only the subject and supporting things should stand out not everything 
+# Motion 
+1. All the motion should follow physics at all times . 
+2. 
