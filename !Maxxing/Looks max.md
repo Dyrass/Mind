@@ -10,3 +10,4 @@ Dein Körper wird auch immer in "*Inflamed*" modus sein. Du wirst wie einen alte
 
 # serotonin 
 [Sertralin](https://en.wikipedia.org/wiki/Sertraline)
+Fluoxetine (Prozac) and amitriptyline are both antidepressants, with fluoxetine being an SSRI and amitriptyline a tricyclic antidepressant, and combining them can increase side effects like sedation, dry mouth, and the risk of serotonin syndrome.
