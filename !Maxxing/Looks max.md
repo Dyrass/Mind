@@ -7,3 +7,6 @@ Wenn man Insulin resistant bist , dann wurde er immer Erschöpft . Er hat immer 
 Insulin Resistant verursacht viele verschiedene Nebenswirkungen . Einzige von Ihnen ist , dass deine Haut immer ungerade ist . 
 Deine Haare wird immer ausfallen. sie soll versuchen , es zu vermeiden . 
 Dein Körper wird auch immer in "*Inflamed*" modus sein. Du wirst wie einen altere Mann aussehen . 
+
+# serotonin 
+[Sertralin](https://en.wikipedia.org/wiki/Sertraline)
