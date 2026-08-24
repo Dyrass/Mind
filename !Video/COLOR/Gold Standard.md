@@ -1,3 +1,8 @@
+
+# first questions 
+1. What should this video accomplish if published -> views , sales , clicks etc etc 
+2. what emotions i want to envoke through this ->
+3. what am i trying to show or highlight . 
 # Dies sollte erstmal verbessern 
 1. Storytelling 
 2. Pacing 
