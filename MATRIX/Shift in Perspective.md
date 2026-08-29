@@ -232,6 +232,8 @@
 
 > "you are trying to seek attention" --> often said by the most *attention* seeking narcissist 
 
+> Chad gets the meal, Brad gets the bill.
+
 
 
 
