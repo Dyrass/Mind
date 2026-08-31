@@ -1,4 +1,4 @@
-## The Ultimate Convergence: The Self-Sustaining Cycle
+ ## The Ultimate Convergence: The Self-Sustaining Cycle
 
 When you mix hopelessness and cognitive dissonance together, they create a closed loop that is incredibly difficult to break.
 
