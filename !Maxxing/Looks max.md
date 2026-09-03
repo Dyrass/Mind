@@ -17,7 +17,7 @@ Fluoxetine (Prozac) and amitriptyline are both antidepressants, with fluoxetine 
 - **Secondary Accent:** Deep Plum (`#4A0E4E`), Emerald Green (`#00A86B`), Icy Silver (`#C0C0C0`), Deep Magenta (`#BB2D8A`), Cool Lavender (`#E6E6FA`).
 **5 Best Clothing Colors**
 1. **Cool Crimson/Ruby Red:** Seen in your photo, this saturated tone gives an immediate high-energy, flattering glow.
-2. **Fuchsia / Bright Magenta:** The ultimate bold femme shade for your contrast level.
+2. **Fuchsia / Bright Magenta:** The ultimate bold shade for your contrast level.
 3. **Icy Silver-Pink:** Soft and delicate for tops or dresses without sacrificing cool undertones.
 4. **Royal Blue:** Crisp and modern; creates an elegant backdrop for delicate silver jewelry.
 5. **Pure White:** Outperformed only by black for instant clarity; never opt for off-white or beige.
