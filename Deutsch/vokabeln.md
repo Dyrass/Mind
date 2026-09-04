@@ -63,6 +63,8 @@
 | machbar                              | möglich                      |                                           |
 | unbekannt                            | anonym                       |                                           |
 | Sperrig                              | bulky                        |                                           |
+| nachhaltig                           | lasting                      |                                           |
+| herstellen                           | produce                      |                                           |
 
 | #   | German                                  | English                       |                                                                           |
 | --- | --------------------------------------- | ----------------------------- | ------------------------------------------------------------------------- |
