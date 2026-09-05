@@ -21,3 +21,10 @@ Fluoxetine (Prozac) and amitriptyline are both antidepressants, with fluoxetine 
 3. **Icy Silver-Pink:** Soft and delicate for tops or dresses without sacrificing cool undertones.
 4. **Royal Blue:** Crisp and modern; creates an elegant backdrop for delicate silver jewelry.
 5. **Pure White:** Outperformed only by black for instant clarity; never opt for off-white or beige.
+
+## Eyesmaxx
+1. Volufiline for dark circle s
+2. sclera drops 
+3. colored contacts - hazel limbal ring is my best color 
+4. minox on eyebros and eyelashes 
+5. 
