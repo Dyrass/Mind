@@ -234,6 +234,8 @@
 
 > Chad gets the meal, Brad gets the bill.
 
+> Women are effectively 10M parameter LLMs finetuned on viral TikToks
+
 
 
 
