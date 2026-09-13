@@ -238,6 +238,10 @@
 
 > `Life is for rich and attractive people ...`
 
+> `“Safe” is just a euphemism for soul crushing`
+
+> 
+
 
 
 
