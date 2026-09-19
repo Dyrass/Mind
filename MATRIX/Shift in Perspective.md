@@ -240,7 +240,9 @@
 
 > `“Safe” is just a euphemism for soul crushing`
 
-> 
+> `Don't believe in yourself , have faith in yourself` - > believe can challenged and is a choice , have faith in yourself like religious people .. 
+
+> `A horse worked hard, but it didn’t become a farmer.`
 
 
 
