@@ -244,6 +244,10 @@
 
 > `A horse worked hard, but it didn’t become a farmer.`
 
+> `Bad ideas are important too, because sometimes they work.
+
+> 
+
 
 
 
