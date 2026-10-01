@@ -1,5 +1,3 @@
-> `"How Life forms think? Can non life forms think? What is thinking? “`
-
 > `Normie walks a mile , Chad takes a Step`
 
 > `If No Fap is true then a sexless marriage is the best outcome you can want`
@@ -246,7 +244,9 @@
 
 > `Bad ideas are important too, because sometimes they work.
 
-> 
+> `Optimise for Iteration not perfection.`
+
+> `Everyone is running the same program , Japan and Korea just got the results first` - `only EU is an exception of it `
 
 
 
