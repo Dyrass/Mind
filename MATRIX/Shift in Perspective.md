@@ -248,6 +248,8 @@
 
 > `Everyone is running the same program , Japan and Korea just got the results first` - `only EU is an exception of it `
 
+> `Proximity to Superiority lead to you being miserable.`
+
 
 
 
