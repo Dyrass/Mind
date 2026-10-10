@@ -88,3 +88,5 @@ First see multiple examples try to decode and recognize pattern by yourself then
 
 The goal is to open it again tomorrow, not to finish everything today 
 
+ADHD Brains are so good at pattern recognition and connecting the dots because they forget every other thing other than the current and if u worry too much about future or past this power is wasted as you don't remember shitt anywayv .. 
+
