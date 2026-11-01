@@ -246,9 +246,13 @@
 
 > `Optimise for Iteration not perfection.`
 
-> `Everyone is running the same program , Japan and Korea just got the results first` - `only EU is an exception of it `
+> `Everyone is running the same program , Japan and Korea just got the results first` - `only EU is an exception of it`
 
 > `Proximity to Superiority lead to you being miserable.`
+
+> `You've lacked the ordinary experiences of being cared for`
+
+> `Adults long for things they lacked when they were child.`
 
 
 
