@@ -11,3 +11,4 @@
 4. Contrast and White balance
 5. Primaries wheels -> shadows , highlights , gain etc 
 6. If you add blush pink on my skin and set it screen or lighten it will lighten the skin without obvious telltales . and if you set it to color burn it will appear as blush makeup . 
+7. just add the opposite color to correct some excess color . 
